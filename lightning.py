@@ -1,5 +1,8 @@
 import geopandas as gpd
 from goes2go import GOES
+import goes2go
+
+print(goes2go.__version__)
 
 print("Connecting to GOES...")
 
