@@ -1,3 +1,4 @@
+import geopandas as gpd
 from goes2go import GOES
 
 print("Connecting to GOES...")
@@ -26,3 +27,13 @@ print(ds.flash_lon.values[:10])
 print()
 print("Flash Times:")
 print(ds.flash_time_offset_of_first_event.values[:10])
+
+print()
+
+print("Loading BTV CWA...")
+
+cwa = gpd.read_file(
+    "https://raw.githubusercontent.com/matthewclay88/severe-climatology/main/allzones.geojson"
+)
+
+print(cwa.head())
