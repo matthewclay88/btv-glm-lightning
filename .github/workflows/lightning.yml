@@ -1,6 +1,10 @@
 name: Update Lightning
 
 on:
+  push:
+    branches:
+      - main
+
   workflow_dispatch:
 
   schedule:
