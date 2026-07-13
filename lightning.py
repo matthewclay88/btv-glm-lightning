@@ -16,4 +16,4 @@ print()
 
 print("Available GOES methods:")
 
-print(dir(G))
+help(G.timerange)
