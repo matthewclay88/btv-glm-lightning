@@ -106,16 +106,13 @@ for _, row in files.iterrows():
 
         processed_files += 1
 
-   except Exception as e:
+    except Exception as e:
 
-    print("================================")
-    print("FAILED FILE")
-    print(row)
-    print(e)
-    print("================================")
-
-
-
+        print("================================")
+        print("FAILED FILE")
+        print(row)
+        print(e)
+        print("================================")
 # ==========================================================
 # WRITE JSON
 # ==========================================================
