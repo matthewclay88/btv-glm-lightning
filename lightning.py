@@ -36,4 +36,8 @@ cwa = gpd.read_file(
     "https://raw.githubusercontent.com/matthewclay88/severe-climatology/main/allzones.geojson"
 )
 
-print(cwa.head())
+print("Columns:")
+print(cwa.columns)
+
+print()
+print(cwa[["STATE"]].head())
