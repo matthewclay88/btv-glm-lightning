@@ -13,4 +13,16 @@ print("Downloading latest GLM file...")
 
 ds = G.latest()
 
-print(ds)
+print("Number of flashes:", len(ds.flash_lat))
+
+print()
+print("Flash Latitudes:")
+print(ds.flash_lat.values[:10])
+
+print()
+print("Flash Longitudes:")
+print(ds.flash_lon.values[:10])
+
+print()
+print("Flash Times:")
+print(ds.flash_time_offset_of_first_event.values[:10])
