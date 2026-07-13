@@ -8,3 +8,9 @@ G = GOES(
 )
 
 print("GOES object created successfully!")
+
+print("Downloading latest GLM file...")
+
+ds = G.latest()
+
+print(ds)
