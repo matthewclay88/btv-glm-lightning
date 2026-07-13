@@ -47,6 +47,10 @@ G = GOES(
 
 files = G.timerange(recent=timedelta(hours=1))
 
+print(files.columns)
+print()
+print(files.iloc[0])
+
 print(f"Found {len(files)} GLM files.")
 
 
