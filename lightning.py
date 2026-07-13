@@ -2,6 +2,7 @@ import geopandas as gpd
 from goes2go import GOES
 import goes2go
 from shapely.geometry import Point
+from datetime import timedelta
 
 print("Connecting to GOES...")
 
@@ -14,6 +15,9 @@ print("GOES object created successfully!")
 
 print()
 
-print("Available GOES methods:")
+print("Downloading last hour of GLM data...")
 
-help(G.timerange)
+datasets = G.timerange(recent=timedelta(hours=1))
+
+print(type(datasets))
+print(datasets)
