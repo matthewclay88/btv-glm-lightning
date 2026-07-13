@@ -18,19 +18,23 @@ GEOJSON_URL = (
 )
 
 OUTPUT_DIR = "data"
-OUTPUT_JSON = os.path.join(OUTPUT_DIR, "lightning.json")
 
-# goes2go downloads here on GitHub Actions
+OUTPUT_JSON = os.path.join(OUTPUT_DIR, "lightning.json")
+OUTPUT_GEOJSON = os.path.join(OUTPUT_DIR, "lightning.geojson")
+
 GOES_DOWNLOAD_ROOT = os.path.expanduser("~/data")
 
+
 # ==========================================================
-# FUNCTIONS
+# LOAD BTV CWA
 # ==========================================================
 
 def load_btv_polygon():
+
     print("Loading BTV CWA...")
 
     gdf = gpd.read_file(GEOJSON_URL)
+
     btv = gdf[gdf["CWA"] == "BTV"]
 
     print(f"Loaded {len(btv)} forecast zones.")
@@ -38,7 +42,12 @@ def load_btv_polygon():
     return btv.union_all()
 
 
+# ==========================================================
+# FIND GLM FILES
+# ==========================================================
+
 def get_glm_files():
+
     print("Finding last hour of GLM data...")
 
     G = GOES(
@@ -46,12 +55,18 @@ def get_glm_files():
         product="GLM-L2-LCFA"
     )
 
-    files = G.timerange(recent=timedelta(hours=1))
+    files = G.timerange(
+        recent=timedelta(hours=1)
+    )
 
     print(f"Found {len(files)} files.")
 
     return files
 
+
+# ==========================================================
+# PROCESS FILES
+# ==========================================================
 
 def process_files(files, polygon):
 
@@ -63,6 +78,8 @@ def process_files(files, polygon):
         "30": 0,
         "60": 0
     }
+
+    features = []
 
     processed = 0
 
@@ -100,6 +117,51 @@ def process_files(files, polygon):
                     now - flash_time.to_pydatetime()
                 ).total_seconds() / 60
 
+                # --------------------------------------
+                # Save GeoJSON point (last 60 minutes)
+                # --------------------------------------
+
+                if age <= 60:
+
+                    if age <= 5:
+                        bin_name = "0-5"
+                    elif age <= 15:
+                        bin_name = "5-15"
+                    elif age <= 30:
+                        bin_name = "15-30"
+                    else:
+                        bin_name = "30-60"
+
+                    features.append({
+
+                        "type": "Feature",
+
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                float(lon),
+                                float(lat)
+                            ]
+                        },
+
+                        "properties": {
+
+                            "time": flash_time.strftime(
+                                "%Y-%m-%dT%H:%M:%SZ"
+                            ),
+
+                            "age_minutes": round(age, 1),
+
+                            "minutes_bin": bin_name
+
+                        }
+
+                    })
+
+                # --------------------------------------
+                # Counts
+                # --------------------------------------
+
                 if age <= 60:
                     counts["60"] += 1
 
@@ -126,17 +188,30 @@ def process_files(files, polygon):
             print("=" * 60)
             print()
 
-    return processed, counts
+    return processed, counts, features
 
+
+# ==========================================================
+# WRITE KPI JSON
+# ==========================================================
 
 def write_json(processed, counts):
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     output = {
-        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "processed_files": processed,
-        "counts": counts
+
+        "updated":
+            datetime.now(timezone.utc).strftime(
+                "%Y-%m-%dT%H:%M:%SZ"
+            ),
+
+        "processed_files":
+            processed,
+
+        "counts":
+            counts
+
     }
 
     with open(OUTPUT_JSON, "w") as f:
@@ -144,9 +219,32 @@ def write_json(processed, counts):
 
     print()
     print("=" * 60)
-    print("Lightning Processing Complete")
+    print("Lightning JSON Written")
     print("=" * 60)
     print(json.dumps(output, indent=2))
+
+
+# ==========================================================
+# WRITE GEOJSON
+# ==========================================================
+
+def write_geojson(features):
+
+    geojson = {
+
+        "type": "FeatureCollection",
+
+        "features": features
+
+    }
+
+    with open(OUTPUT_GEOJSON, "w") as f:
+        json.dump(geojson, f, indent=2)
+
+    print()
+    print("=" * 60)
+    print(f"GeoJSON Written ({len(features)} flashes)")
+    print("=" * 60)
 
 
 # ==========================================================
@@ -159,7 +257,7 @@ if __name__ == "__main__":
 
     files = get_glm_files()
 
-    processed, counts = process_files(
+    processed, counts, features = process_files(
         files,
         polygon
     )
@@ -167,4 +265,8 @@ if __name__ == "__main__":
     write_json(
         processed,
         counts
+    )
+
+    write_geojson(
+        features
     )
