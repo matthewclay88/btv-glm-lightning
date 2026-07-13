@@ -59,6 +59,9 @@ btv_polygon = btv.union_all()
 
 print("Done!")
 
+print(f"Geometry type: {btv_polygon.geom_type}")
+print(f"Bounds: {btv_polygon.bounds}")
+
 print()
 
 print("Testing flashes inside BTV CWA...")
