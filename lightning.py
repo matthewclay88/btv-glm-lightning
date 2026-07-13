@@ -47,4 +47,7 @@ print()
 
 print("CWAs in file:")
 
-print(sorted(cwa["CWA"].unique()))
+# Keep only the BTV CWA polygons
+btv = cwa[cwa["CWA"] == "BTV"]
+
+print("Number of BTV forecast zones:", len(btv))
