@@ -63,7 +63,14 @@ print(f"Geometry type: {btv_polygon.geom_type}")
 print(f"Bounds: {btv_polygon.bounds}")
 
 print()
+print("Testing Burlington...")
 
+burlington = Point(-73.2121, 44.4759)
+
+print("Burlington inside BTV:",
+      btv_polygon.contains(burlington))
+
+print()
 print("Testing flashes inside BTV CWA...")
 
 count = 0
