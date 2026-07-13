@@ -43,4 +43,8 @@ print("Columns:")
 print(cwa.columns)
 
 print()
-print(cwa[["STATE"]].head())
+print()
+
+print("CWAs in file:")
+
+print(sorted(cwa["CWA"].unique()))
