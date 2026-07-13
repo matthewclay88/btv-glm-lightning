@@ -6,21 +6,35 @@ on:
   schedule:
     - cron: '*/5 * * * *'
 
+permissions:
+  contents: write
+
 jobs:
   lightning:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Verify Python
-        run: python --version
+      - name: Run Script
+        run: python lightning.py
 
-      - name: List Files
-        run: ls -R
+      - name: Commit JSON
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add data/lightning.json
+
+          git diff --cached --quiet || (
+            git commit -m "Update lightning.json"
+            git push
+          )
