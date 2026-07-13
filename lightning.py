@@ -1,13 +1,12 @@
 import json
+import os
 from datetime import datetime, timedelta, timezone
 
 import geopandas as gpd
 import pandas as pd
 import xarray as xr
 from shapely.geometry import Point
-
 from goes2go import GOES
-
 
 # ==========================================================
 # CONFIGURATION
@@ -18,116 +17,154 @@ GEOJSON_URL = (
     "matthewclay88/severe-climatology/main/allzones.geojson"
 )
 
-OUTPUT_JSON = "data/lightning.json"
+OUTPUT_DIR = "data"
+OUTPUT_JSON = os.path.join(OUTPUT_DIR, "lightning.json")
 
-
-# ==========================================================
-# LOAD BTV CWA
-# ==========================================================
-
-print("Loading BTV CWA...")
-
-cwa = gpd.read_file(GEOJSON_URL)
-btv = cwa[cwa["CWA"] == "BTV"]
-btv_polygon = btv.union_all()
-
-print(f"Loaded {len(btv)} BTV forecast zones.")
-
+# goes2go downloads here on GitHub Actions
+GOES_DOWNLOAD_ROOT = os.path.expanduser("~/data")
 
 # ==========================================================
-# FIND LAST HOUR OF GLM FILES
+# FUNCTIONS
 # ==========================================================
 
-print("Finding last hour of GLM data...")
+def load_btv_polygon():
+    print("Loading BTV CWA...")
 
-G = GOES(
-    satellite=19,
-    product="GLM-L2-LCFA"
-)
+    gdf = gpd.read_file(GEOJSON_URL)
+    btv = gdf[gdf["CWA"] == "BTV"]
 
-files = G.timerange(
-    recent=timedelta(hours=1)
-)
+    print(f"Loaded {len(btv)} forecast zones.")
 
-print(f"Found {len(files)} GLM files.")
-print(files.columns)
-print()
-print(files.iloc[0])
+    return btv.union_all()
 
 
-# ==========================================================
-# COUNT FLASHES
-# ==========================================================
+def get_glm_files():
+    print("Finding last hour of GLM data...")
 
-now = datetime.now(timezone.utc)
+    G = GOES(
+        satellite=19,
+        product="GLM-L2-LCFA"
+    )
 
-counts = {
-    "5": 0,
-    "15": 0,
-    "30": 0,
-    "60": 0
-}
+    files = G.timerange(recent=timedelta(hours=1))
 
-processed_files = 0
+    print(f"Found {len(files)} files.")
 
-for _, row in files.iterrows():
+    return files
 
-    try:
 
-        ds = xr.load_dataset(row.file)
+def process_files(files, polygon):
 
-        lats = ds.flash_lat.values
-        lons = ds.flash_lon.values
-        times = pd.to_datetime(
-            ds.flash_time_offset_of_first_event.values,
-            utc=True
-        )
+    now = datetime.now(timezone.utc)
 
-        for lat, lon, flash_time in zip(lats, lons, times):
+    counts = {
+        "5": 0,
+        "15": 0,
+        "30": 0,
+        "60": 0
+    }
 
-            point = Point(float(lon), float(lat))
+    processed = 0
 
-            if not btv_polygon.contains(point):
+    for _, row in files.iterrows():
+
+        try:
+
+            local_file = os.path.join(
+                GOES_DOWNLOAD_ROOT,
+                row.file
+            )
+
+            if not os.path.exists(local_file):
+                print(f"Missing: {local_file}")
                 continue
 
-            age_minutes = (now - flash_time.to_pydatetime()).total_seconds() / 60.0
+            ds = xr.load_dataset(local_file)
 
-            if age_minutes <= 60:
-                counts["60"] += 1
+            lats = ds.flash_lat.values
+            lons = ds.flash_lon.values
 
-            if age_minutes <= 30:
-                counts["30"] += 1
+            times = pd.to_datetime(
+                ds.flash_time_offset_of_first_event.values,
+                utc=True
+            )
 
-            if age_minutes <= 15:
-                counts["15"] += 1
+            for lat, lon, flash_time in zip(lats, lons, times):
 
-            if age_minutes <= 5:
-                counts["5"] += 1
+                pt = Point(float(lon), float(lat))
 
-        processed_files += 1
+                if not polygon.covers(pt):
+                    continue
 
-    except Exception as e:
+                age = (
+                    now - flash_time.to_pydatetime()
+                ).total_seconds() / 60
 
-        print("================================")
-        print("FAILED FILE")
-        print(row)
-        print(e)
-        print("================================")
+                if age <= 60:
+                    counts["60"] += 1
+
+                if age <= 30:
+                    counts["30"] += 1
+
+                if age <= 15:
+                    counts["15"] += 1
+
+                if age <= 5:
+                    counts["5"] += 1
+
+            processed += 1
+
+            ds.close()
+
+        except Exception as e:
+
+            print()
+            print("=" * 60)
+            print("FAILED")
+            print(local_file)
+            print(e)
+            print("=" * 60)
+            print()
+
+    return processed, counts
+
+
+def write_json(processed, counts):
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    output = {
+        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "processed_files": processed,
+        "counts": counts
+    }
+
+    with open(OUTPUT_JSON, "w") as f:
+        json.dump(output, f, indent=2)
+
+    print()
+    print("=" * 60)
+    print("Lightning Processing Complete")
+    print("=" * 60)
+    print(json.dumps(output, indent=2))
+
+
 # ==========================================================
-# WRITE JSON
+# MAIN
 # ==========================================================
 
-output = {
-    "updated": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-    "processed_files": processed_files,
-    "counts": counts
-}
+if __name__ == "__main__":
 
-with open(OUTPUT_JSON, "w") as f:
-    json.dump(output, f, indent=2)
+    polygon = load_btv_polygon()
 
-print()
-print("===================================")
-print("Lightning processing complete")
-print("===================================")
-print(json.dumps(output, indent=2))
+    files = get_glm_files()
+
+    processed, counts = process_files(
+        files,
+        polygon
+    )
+
+    write_json(
+        processed,
+        counts
+    )
