@@ -45,7 +45,10 @@ G = GOES(
     product="GLM-L2-LCFA"
 )
 
-files = G.timerange(recent=timedelta(hours=1))
+datasets = G.timerange(
+    recent=timedelta(hours=1),
+    return_as="xarray"
+)
 
 print(files.columns)
 print()
