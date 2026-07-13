@@ -45,16 +45,14 @@ G = GOES(
     product="GLM-L2-LCFA"
 )
 
-datasets = G.timerange(
-    recent=timedelta(hours=1),
-    return_as="xarray"
+files = G.timerange(
+    recent=timedelta(hours=1)
 )
 
+print(f"Found {len(files)} GLM files.")
 print(files.columns)
 print()
 print(files.iloc[0])
-
-print(f"Found {len(files)} GLM files.")
 
 
 # ==========================================================
@@ -108,9 +106,13 @@ for _, row in files.iterrows():
 
         processed_files += 1
 
-    except Exception as e:
+   except Exception as e:
 
-        print(f"Skipping file: {e}")
+    print("================================")
+    print("FAILED FILE")
+    print(row)
+    print(e)
+    print("================================")
 
 
 
