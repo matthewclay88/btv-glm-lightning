@@ -51,3 +51,11 @@ print("CWAs in file:")
 btv = cwa[cwa["CWA"] == "BTV"]
 
 print("Number of BTV forecast zones:", len(btv))
+
+print()
+
+print("Merging BTV forecast zones...")
+
+btv_polygon = btv.union_all()
+
+print("Done!")
