@@ -1,17 +1,10 @@
-import json
-from datetime import datetime, timezone
+from goes2go import GOES
 
-data = {
-    "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-    "counts": {
-        "5": 0,
-        "15": 0,
-        "30": 0,
-        "60": 0
-    }
-}
+print("Connecting to GOES...")
 
-with open("data/lightning.json", "w") as f:
-    json.dump(data, f, indent=2)
+G = GOES(
+    satellite=19,
+    product="GLM-L2-LCFA"
+)
 
-print("lightning.json created!")
+print("GOES object created successfully!")
