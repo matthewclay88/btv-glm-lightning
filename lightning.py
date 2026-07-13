@@ -1,8 +1,7 @@
 import geopandas as gpd
 from goes2go import GOES
 import goes2go
-
-print(goes2go.__version__)
+from shapely.geometry import Point
 
 print("Connecting to GOES...")
 
@@ -59,3 +58,18 @@ print("Merging BTV forecast zones...")
 btv_polygon = btv.union_all()
 
 print("Done!")
+
+print()
+
+print("Testing flashes inside BTV CWA...")
+
+count = 0
+
+for lat, lon in zip(ds.flash_lat.values, ds.flash_lon.values):
+
+    point = Point(float(lon), float(lat))
+
+    if btv_polygon.contains(point):
+        count += 1
+
+print(f"Flashes inside BTV: {count}")
