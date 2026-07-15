@@ -6,28 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.88943481445312,
-          44.983036041259766
-        ]
-      },
-      "properties": {
-        "time": "2026-07-15T19:01:16Z",
-        "age_minutes": 44.9,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.884521484375,
           44.95899200439453
         ]
       },
       "properties": {
         "time": "2026-07-15T19:02:25Z",
-        "age_minutes": 43.7,
+        "age_minutes": 59.3,
         "minutes_bin": "30-60"
       }
     },
@@ -42,7 +27,7 @@
       },
       "properties": {
         "time": "2026-07-15T19:03:19Z",
-        "age_minutes": 42.8,
+        "age_minutes": 58.4,
         "minutes_bin": "30-60"
       }
     },
@@ -57,7 +42,7 @@
       },
       "properties": {
         "time": "2026-07-15T19:04:47Z",
-        "age_minutes": 41.4,
+        "age_minutes": 57.0,
         "minutes_bin": "30-60"
       }
     },
@@ -72,7 +57,7 @@
       },
       "properties": {
         "time": "2026-07-15T19:05:50Z",
-        "age_minutes": 40.3,
+        "age_minutes": 55.9,
         "minutes_bin": "30-60"
       }
     },
@@ -87,7 +72,7 @@
       },
       "properties": {
         "time": "2026-07-15T19:06:50Z",
-        "age_minutes": 39.3,
+        "age_minutes": 54.9,
         "minutes_bin": "30-60"
       }
     },
@@ -102,7 +87,7 @@
       },
       "properties": {
         "time": "2026-07-15T19:07:46Z",
-        "age_minutes": 38.4,
+        "age_minutes": 54.0,
         "minutes_bin": "30-60"
       }
     },
@@ -117,7 +102,7 @@
       },
       "properties": {
         "time": "2026-07-15T19:09:01Z",
-        "age_minutes": 37.1,
+        "age_minutes": 52.7,
         "minutes_bin": "30-60"
       }
     }
