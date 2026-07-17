@@ -55,9 +55,13 @@ def get_glm_files():
         product="GLM-L2-LCFA"
     )
 
-    files = G.timerange(
-        recent=timedelta(hours=1)
-    )
+    try:
+        files = G.timerange(
+            recent=timedelta(hours=2)   # wider window absorbs upload latency
+        )
+    except ValueError as e:
+        print(f"No GLM files available yet ({e}); skipping this run.")
+        files = pd.DataFrame(columns=["file"])  # empty, downstream code handles it fine
 
     print(f"Found {len(files)} files.")
 
