@@ -6,28 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.71268463134766,
-          44.5007438659668
-        ]
-      },
-      "properties": {
-        "time": "2026-07-18T20:45:41Z",
-        "age_minutes": 45.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.6523666381836,
           44.49818420410156
         ]
       },
       "properties": {
         "time": "2026-07-18T20:48:44Z",
-        "age_minutes": 42.1,
+        "age_minutes": 57.1,
         "minutes_bin": "30-60"
       }
     },
@@ -42,7 +27,7 @@
       },
       "properties": {
         "time": "2026-07-18T20:51:14Z",
-        "age_minutes": 39.6,
+        "age_minutes": 54.6,
         "minutes_bin": "30-60"
       }
     },
@@ -57,7 +42,7 @@
       },
       "properties": {
         "time": "2026-07-18T20:53:42Z",
-        "age_minutes": 37.2,
+        "age_minutes": 52.1,
         "minutes_bin": "30-60"
       }
     },
@@ -72,7 +57,7 @@
       },
       "properties": {
         "time": "2026-07-18T20:55:45Z",
-        "age_minutes": 35.1,
+        "age_minutes": 50.1,
         "minutes_bin": "30-60"
       }
     },
@@ -87,7 +72,7 @@
       },
       "properties": {
         "time": "2026-07-18T20:57:30Z",
-        "age_minutes": 33.4,
+        "age_minutes": 48.3,
         "minutes_bin": "30-60"
       }
     },
@@ -102,8 +87,8 @@
       },
       "properties": {
         "time": "2026-07-18T21:19:19Z",
-        "age_minutes": 11.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -117,8 +102,8 @@
       },
       "properties": {
         "time": "2026-07-18T21:21:09Z",
-        "age_minutes": 9.7,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -132,8 +117,8 @@
       },
       "properties": {
         "time": "2026-07-18T21:21:43Z",
-        "age_minutes": 9.1,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -147,8 +132,8 @@
       },
       "properties": {
         "time": "2026-07-18T21:23:12Z",
-        "age_minutes": 7.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -162,8 +147,8 @@
       },
       "properties": {
         "time": "2026-07-18T21:26:06Z",
-        "age_minutes": 4.7,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -177,8 +162,8 @@
       },
       "properties": {
         "time": "2026-07-18T21:26:57Z",
-        "age_minutes": 3.9,
-        "minutes_bin": "0-5"
+        "age_minutes": 18.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -192,7 +177,67 @@
       },
       "properties": {
         "time": "2026-07-18T21:29:43Z",
-        "age_minutes": 1.1,
+        "age_minutes": 16.1,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33939361572266,
+          44.34748077392578
+        ]
+      },
+      "properties": {
+        "time": "2026-07-18T21:31:30Z",
+        "age_minutes": 14.3,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.93365478515625,
+          44.348506927490234
+        ]
+      },
+      "properties": {
+        "time": "2026-07-18T21:33:12Z",
+        "age_minutes": 12.6,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23418426513672,
+          44.35926818847656
+        ]
+      },
+      "properties": {
+        "time": "2026-07-18T21:34:08Z",
+        "age_minutes": 11.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.78900146484375,
+          44.33598709106445
+        ]
+      },
+      "properties": {
+        "time": "2026-07-18T21:42:39Z",
+        "age_minutes": 3.2,
         "minutes_bin": "0-5"
       }
     }
