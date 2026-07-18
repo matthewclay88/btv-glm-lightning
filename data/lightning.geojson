@@ -1,20 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.7532958984375,
-          43.28782653808594
-        ]
-      },
-      "properties": {
-        "time": "2026-07-18T17:42:36Z",
-        "age_minutes": 48.1,
-        "minutes_bin": "30-60"
-      }
-    }
-  ]
+  "features": []
 }
