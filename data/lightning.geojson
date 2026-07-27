@@ -6,28 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.79061126708984,
-          44.791481018066406
-        ]
-      },
-      "properties": {
-        "time": "2026-07-27T21:17:01Z",
-        "age_minutes": 59.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.6284408569336,
           44.92060089111328
         ]
       },
       "properties": {
         "time": "2026-07-27T21:33:09Z",
-        "age_minutes": 42.9,
+        "age_minutes": 58.3,
         "minutes_bin": "30-60"
       }
     },
@@ -42,8 +27,8 @@
       },
       "properties": {
         "time": "2026-07-27T21:59:34Z",
-        "age_minutes": 16.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 31.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -57,8 +42,8 @@
       },
       "properties": {
         "time": "2026-07-27T22:00:25Z",
-        "age_minutes": 15.6,
-        "minutes_bin": "15-30"
+        "age_minutes": 31.0,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -72,8 +57,8 @@
       },
       "properties": {
         "time": "2026-07-27T22:01:08Z",
-        "age_minutes": 14.9,
-        "minutes_bin": "5-15"
+        "age_minutes": 30.3,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -87,8 +72,8 @@
       },
       "properties": {
         "time": "2026-07-27T22:02:34Z",
-        "age_minutes": 13.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 28.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -102,8 +87,8 @@
       },
       "properties": {
         "time": "2026-07-27T22:09:09Z",
-        "age_minutes": 6.9,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -117,8 +102,8 @@
       },
       "properties": {
         "time": "2026-07-27T22:12:02Z",
-        "age_minutes": 4.0,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.4,
+        "minutes_bin": "15-30"
       }
     }
   ]
