@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.71529388427734,
-          44.5184440612793
+          -73.52521514892578,
+          44.69163513183594
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:35:34Z",
-        "age_minutes": 56.0,
+        "time": "2026-08-06T18:31:34Z",
+        "age_minutes": 59.7,
         "minutes_bin": "30-60"
       }
     },
@@ -21,13 +21,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.66260528564453,
-          44.51926040649414
+          -74.36904907226562,
+          44.87076187133789
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:39:54Z",
-        "age_minutes": 51.7,
+        "time": "2026-08-06T18:32:24Z",
+        "age_minutes": 58.9,
         "minutes_bin": "30-60"
       }
     },
@@ -36,13 +36,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.61727905273438,
-          44.52477264404297
+          -74.24342346191406,
+          44.3931884765625
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:40:45Z",
-        "age_minutes": 50.8,
+        "time": "2026-08-06T18:33:07Z",
+        "age_minutes": 58.2,
         "minutes_bin": "30-60"
       }
     },
@@ -51,13 +51,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.59840393066406,
-          44.558555603027344
+          -73.45389556884766,
+          44.9886474609375
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:41:50Z",
-        "age_minutes": 49.7,
+        "time": "2026-08-06T18:34:17Z",
+        "age_minutes": 57.0,
         "minutes_bin": "30-60"
       }
     },
@@ -66,13 +66,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.61187744140625,
-          44.52799606323242
+          -72.76484680175781,
+          44.859683990478516
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:42:24Z",
-        "age_minutes": 49.2,
+        "time": "2026-08-06T18:39:00Z",
+        "age_minutes": 52.3,
         "minutes_bin": "30-60"
       }
     },
@@ -81,13 +81,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.60896301269531,
-          44.53913879394531
+          -72.77976989746094,
+          44.87357711791992
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:43:29Z",
-        "age_minutes": 48.1,
+        "time": "2026-08-06T18:39:39Z",
+        "age_minutes": 51.6,
         "minutes_bin": "30-60"
       }
     },
@@ -96,13 +96,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.60871124267578,
-          44.5397834777832
+          -73.36774444580078,
+          44.99406814575195
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:44:16Z",
-        "age_minutes": 47.3,
+        "time": "2026-08-06T18:44:11Z",
+        "age_minutes": 47.1,
         "minutes_bin": "30-60"
       }
     },
@@ -111,13 +111,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.60346984863281,
-          44.541629791259766
+          -73.50492858886719,
+          44.66817855834961
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:44:40Z",
-        "age_minutes": 46.9,
+        "time": "2026-08-06T18:47:01Z",
+        "age_minutes": 44.3,
         "minutes_bin": "30-60"
       }
     },
@@ -126,237 +126,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.61054229736328,
-          44.525306701660156
+          -74.5915756225586,
+          44.94194793701172
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:45:00Z",
-        "age_minutes": 46.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.60913848876953,
-          44.52656555175781
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:45:17Z",
-        "age_minutes": 46.3,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.6100845336914,
-          44.56410598754883
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:45:49Z",
-        "age_minutes": 45.7,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.5580062866211,
-          44.53788757324219
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:46:03Z",
-        "age_minutes": 45.5,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.50244903564453,
-          44.524513244628906
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:46:10Z",
-        "age_minutes": 45.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.59354400634766,
-          44.55973434448242
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:46:45Z",
-        "age_minutes": 44.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.41824340820312,
-          44.47722625732422
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:47:30Z",
-        "age_minutes": 44.1,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.52808380126953,
-          44.5987434387207
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:48:02Z",
-        "age_minutes": 43.5,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.50787353515625,
-          44.55923843383789
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:48:43Z",
-        "age_minutes": 42.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.61044311523438,
-          44.46001434326172
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:49:18Z",
-        "age_minutes": 42.3,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.52108764648438,
-          44.572025299072266
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:49:26Z",
-        "age_minutes": 42.1,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.4603500366211,
-          44.4420166015625
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:49:31Z",
-        "age_minutes": 42.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.53093719482422,
-          44.59379959106445
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:50:52Z",
-        "age_minutes": 40.7,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.6102523803711,
-          44.465126037597656
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:51:17Z",
-        "age_minutes": 40.3,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.48686981201172,
-          44.55628204345703
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:51:24Z",
-        "age_minutes": 40.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.60618591308594,
-          44.510677337646484
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:51:42Z",
+        "time": "2026-08-06T18:51:22Z",
         "age_minutes": 39.9,
         "minutes_bin": "30-60"
       }
@@ -366,13 +141,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.609619140625,
-          44.463016510009766
+          -73.35783386230469,
+          44.73262023925781
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:52:21Z",
-        "age_minutes": 39.2,
+        "time": "2026-08-06T18:51:31Z",
+        "age_minutes": 39.8,
         "minutes_bin": "30-60"
       }
     },
@@ -381,13 +156,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.46271514892578,
-          44.48894119262695
+          -74.55304718017578,
+          44.9210319519043
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:52:31Z",
-        "age_minutes": 39.0,
+        "time": "2026-08-06T18:51:42Z",
+        "age_minutes": 39.6,
         "minutes_bin": "30-60"
       }
     },
@@ -396,13 +171,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.48352813720703,
-          44.556602478027344
+          -74.23298645019531,
+          44.447444915771484
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:53:09Z",
-        "age_minutes": 38.4,
+        "time": "2026-08-06T18:53:30Z",
+        "age_minutes": 37.8,
         "minutes_bin": "30-60"
       }
     },
@@ -411,13 +186,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.60704040527344,
-          44.57387161254883
+          -73.41291046142578,
+          44.72066879272461
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:53:56Z",
-        "age_minutes": 37.6,
+        "time": "2026-08-06T18:54:48Z",
+        "age_minutes": 36.5,
         "minutes_bin": "30-60"
       }
     },
@@ -426,13 +201,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.49042510986328,
-          44.52592849731445
+          -73.40730285644531,
+          44.74199676513672
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:54:14Z",
-        "age_minutes": 37.3,
+        "time": "2026-08-06T18:57:46Z",
+        "age_minutes": 33.5,
         "minutes_bin": "30-60"
       }
     },
@@ -441,13 +216,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.48278045654297,
-          44.52690505981445
+          -73.52928161621094,
+          44.52396011352539
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:55:11Z",
-        "age_minutes": 36.4,
+        "time": "2026-08-06T18:59:25Z",
+        "age_minutes": 31.9,
         "minutes_bin": "30-60"
       }
     },
@@ -456,13 +231,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.29734802246094,
-          44.69258117675781
+          -73.4863052368164,
+          44.67506408691406
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:56:20Z",
-        "age_minutes": 35.2,
+        "time": "2026-08-06T18:59:46Z",
+        "age_minutes": 31.5,
         "minutes_bin": "30-60"
       }
     },
@@ -471,88 +246,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.4553451538086,
-          44.4493522644043
+          -73.52840423583984,
+          44.52477264404297
         ]
       },
       "properties": {
-        "time": "2026-08-06T16:56:26Z",
-        "age_minutes": 35.1,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.49991607666016,
-          44.607975006103516
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:57:52Z",
-        "age_minutes": 33.7,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.28338623046875,
-          44.69429016113281
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T16:57:59Z",
-        "age_minutes": 33.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.48477172851562,
-          44.55847930908203
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:00:11Z",
-        "age_minutes": 31.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2755355834961,
-          44.7192497253418
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:00:33Z",
-        "age_minutes": 31.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.25666046142578,
-          44.70022964477539
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:02:32Z",
-        "age_minutes": 29.0,
+        "time": "2026-08-06T19:01:31Z",
+        "age_minutes": 29.8,
         "minutes_bin": "15-30"
       }
     },
@@ -561,13 +261,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.40142059326172,
-          44.58238220214844
+          -73.53313446044922,
+          44.48358154296875
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:02:55Z",
-        "age_minutes": 28.6,
+        "time": "2026-08-06T19:01:44Z",
+        "age_minutes": 29.6,
         "minutes_bin": "15-30"
       }
     },
@@ -576,13 +276,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2830810546875,
-          44.70930480957031
+          -73.52733612060547,
+          44.52266311645508
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:02:56Z",
-        "age_minutes": 28.6,
+        "time": "2026-08-06T19:02:10Z",
+        "age_minutes": 29.1,
         "minutes_bin": "15-30"
       }
     },
@@ -591,13 +291,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28318786621094,
-          44.72642517089844
+          -73.44634246826172,
+          44.632286071777344
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:03:48Z",
-        "age_minutes": 27.8,
+        "time": "2026-08-06T19:02:12Z",
+        "age_minutes": 29.1,
         "minutes_bin": "15-30"
       }
     },
@@ -606,13 +306,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.36527252197266,
-          44.56262969970703
+          -73.52960968017578,
+          44.47195053100586
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:04:23Z",
-        "age_minutes": 27.2,
+        "time": "2026-08-06T19:03:03Z",
+        "age_minutes": 28.2,
         "minutes_bin": "15-30"
       }
     },
@@ -621,13 +321,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.26712799072266,
-          44.69194412231445
+          -73.528564453125,
+          44.475914001464844
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:04:28Z",
-        "age_minutes": 27.1,
+        "time": "2026-08-06T19:03:47Z",
+        "age_minutes": 27.5,
         "minutes_bin": "15-30"
       }
     },
@@ -636,12 +336,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.23153686523438,
-          44.6912727355957
+          -73.52757263183594,
+          44.52593994140625
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:05:01Z",
+        "time": "2026-08-06T19:04:31Z",
+        "age_minutes": 26.8,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.37254333496094,
+          44.7416877746582
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:04:49Z",
         "age_minutes": 26.5,
         "minutes_bin": "15-30"
       }
@@ -651,13 +366,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.42758178710938,
-          44.55043029785156
+          -73.53311157226562,
+          44.520652770996094
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:05:25Z",
-        "age_minutes": 26.1,
+        "time": "2026-08-06T19:05:15Z",
+        "age_minutes": 26.0,
         "minutes_bin": "15-30"
       }
     },
@@ -666,13 +381,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.23787689208984,
-          44.707435607910156
+          -73.52767944335938,
+          44.5235481262207
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:06:17Z",
-        "age_minutes": 25.3,
+        "time": "2026-08-06T19:05:37Z",
+        "age_minutes": 25.7,
         "minutes_bin": "15-30"
       }
     },
@@ -681,13 +396,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28925323486328,
-          44.69333267211914
+          -73.5228500366211,
+          44.52773666381836
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:06:55Z",
-        "age_minutes": 24.6,
+        "time": "2026-08-06T19:06:34Z",
+        "age_minutes": 24.7,
         "minutes_bin": "15-30"
       }
     },
@@ -696,12 +411,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.22653198242188,
-          44.71146011352539
+          -73.57123565673828,
+          44.519832611083984
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:07:32Z",
+        "time": "2026-08-06T19:07:00Z",
+        "age_minutes": 24.3,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.43018341064453,
+          44.69401931762695
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:07:17Z",
         "age_minutes": 24.0,
         "minutes_bin": "15-30"
       }
@@ -711,12 +441,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.44639587402344,
-          44.557762145996094
+          -73.54121398925781,
+          44.52265548706055
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:07:44Z",
+        "time": "2026-08-06T19:07:29Z",
         "age_minutes": 23.8,
         "minutes_bin": "15-30"
       }
@@ -726,13 +456,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.26678466796875,
-          44.691654205322266
+          -73.52635955810547,
+          44.5245475769043
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:08:42Z",
-        "age_minutes": 22.9,
+        "time": "2026-08-06T19:07:58Z",
+        "age_minutes": 23.3,
         "minutes_bin": "15-30"
       }
     },
@@ -741,13 +471,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.29098510742188,
-          44.69032287597656
+          -73.57115173339844,
+          44.54049301147461
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:09:12Z",
-        "age_minutes": 22.4,
+        "time": "2026-08-06T19:08:13Z",
+        "age_minutes": 23.1,
         "minutes_bin": "15-30"
       }
     },
@@ -756,12 +486,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.29375457763672,
-          44.66248321533203
+          -73.5298843383789,
+          44.52608108520508
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:09:40Z",
+        "time": "2026-08-06T19:08:31Z",
+        "age_minutes": 22.8,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52593994140625,
+          44.52852249145508
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:08:45Z",
+        "age_minutes": 22.5,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6067886352539,
+          44.52367401123047
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:09:01Z",
+        "age_minutes": 22.3,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.54805755615234,
+          44.543212890625
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:09:16Z",
+        "age_minutes": 22.0,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.47858428955078,
+          44.53062438964844
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:09:22Z",
         "age_minutes": 21.9,
         "minutes_bin": "15-30"
       }
@@ -771,12 +561,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28833770751953,
-          44.71283721923828
+          -73.56167602539062,
+          44.52762985229492
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:10:00Z",
+        "time": "2026-08-06T19:09:35Z",
+        "age_minutes": 21.7,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5314712524414,
+          44.52678680419922
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:09:43Z",
         "age_minutes": 21.6,
         "minutes_bin": "15-30"
       }
@@ -786,13 +591,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2938461303711,
-          44.69378662109375
+          -73.53289794921875,
+          44.53351974487305
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:10:12Z",
-        "age_minutes": 21.4,
+        "time": "2026-08-06T19:10:04Z",
+        "age_minutes": 21.2,
         "minutes_bin": "15-30"
       }
     },
@@ -801,13 +606,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.22118377685547,
-          44.68825149536133
+          -73.52570343017578,
+          44.52377700805664
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:11:00Z",
-        "age_minutes": 20.6,
+        "time": "2026-08-06T19:10:18Z",
+        "age_minutes": 21.0,
         "minutes_bin": "15-30"
       }
     },
@@ -816,13 +621,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.31103515625,
-          44.56822204589844
+          -73.42618560791016,
+          44.69943618774414
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:11:07Z",
-        "age_minutes": 20.4,
+        "time": "2026-08-06T19:10:29Z",
+        "age_minutes": 20.8,
         "minutes_bin": "15-30"
       }
     },
@@ -831,13 +636,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.27690887451172,
-          44.700904846191406
+          -73.55622863769531,
+          44.511661529541016
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:11:30Z",
-        "age_minutes": 20.1,
+        "time": "2026-08-06T19:10:35Z",
+        "age_minutes": 20.7,
         "minutes_bin": "15-30"
       }
     },
@@ -846,12 +651,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28337860107422,
-          44.69263458251953
+          -73.52651977539062,
+          44.52408218383789
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:11:50Z",
+        "time": "2026-08-06T19:10:57Z",
+        "age_minutes": 20.3,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52759552001953,
+          44.535953521728516
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:11:18Z",
+        "age_minutes": 20.0,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.414794921875,
+          44.652381896972656
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:11:34Z",
         "age_minutes": 19.7,
         "minutes_bin": "15-30"
       }
@@ -861,13 +696,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2789306640625,
-          44.69231414794922
+          -73.51483917236328,
+          44.53412628173828
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:12:00Z",
-        "age_minutes": 19.6,
+        "time": "2026-08-06T19:11:35Z",
+        "age_minutes": 19.7,
         "minutes_bin": "15-30"
       }
     },
@@ -876,13 +711,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28280639648438,
-          44.6923828125
+          -73.52619171142578,
+          44.53044509887695
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:12:20Z",
-        "age_minutes": 19.2,
+        "time": "2026-08-06T19:11:50Z",
+        "age_minutes": 19.5,
         "minutes_bin": "15-30"
       }
     },
@@ -891,12 +726,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.24512481689453,
-          44.73605728149414
+          -73.52527618408203,
+          44.553306579589844
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:12:43Z",
+        "time": "2026-08-06T19:12:10Z",
+        "age_minutes": 19.1,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52400970458984,
+          44.55189895629883
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:12:29Z",
         "age_minutes": 18.8,
         "minutes_bin": "15-30"
       }
@@ -906,12 +756,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2703628540039,
-          44.669925689697266
+          -73.31501007080078,
+          44.69732666015625
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:12:59Z",
+        "time": "2026-08-06T19:12:40Z",
         "age_minutes": 18.6,
         "minutes_bin": "15-30"
       }
@@ -921,13 +771,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.26124572753906,
-          44.69221115112305
+          -73.52723693847656,
+          44.526859283447266
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:13:38Z",
-        "age_minutes": 17.9,
+        "time": "2026-08-06T19:12:46Z",
+        "age_minutes": 18.5,
         "minutes_bin": "15-30"
       }
     },
@@ -936,13 +786,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.36746978759766,
-          44.606353759765625
+          -73.55408477783203,
+          44.518856048583984
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:13:47Z",
-        "age_minutes": 17.8,
+        "time": "2026-08-06T19:12:57Z",
+        "age_minutes": 18.3,
         "minutes_bin": "15-30"
       }
     },
@@ -951,13 +801,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.26323699951172,
-          44.69297409057617
+          -73.51925659179688,
+          44.53019332885742
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:14:06Z",
-        "age_minutes": 17.5,
+        "time": "2026-08-06T19:13:12Z",
+        "age_minutes": 18.1,
         "minutes_bin": "15-30"
       }
     },
@@ -966,13 +816,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28201293945312,
-          44.6927375793457
+          -73.5272216796875,
+          44.53120803833008
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:14:06Z",
-        "age_minutes": 17.5,
+        "time": "2026-08-06T19:13:34Z",
+        "age_minutes": 17.7,
         "minutes_bin": "15-30"
       }
     },
@@ -981,13 +831,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.25591278076172,
-          44.66584396362305
+          -73.41436004638672,
+          44.67270278930664
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:14:46Z",
-        "age_minutes": 16.8,
+        "time": "2026-08-06T19:13:41Z",
+        "age_minutes": 17.6,
         "minutes_bin": "15-30"
       }
     },
@@ -996,13 +846,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.23822021484375,
-          44.659297943115234
+          -73.4958724975586,
+          44.53377914428711
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:15:14Z",
-        "age_minutes": 16.3,
+        "time": "2026-08-06T19:13:53Z",
+        "age_minutes": 17.4,
         "minutes_bin": "15-30"
       }
     },
@@ -1011,12 +861,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.58638763427734,
-          44.691612243652344
+          -73.52043151855469,
+          44.54318618774414
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:15:25Z",
+        "time": "2026-08-06T19:14:11Z",
+        "age_minutes": 17.1,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.51885986328125,
+          44.585575103759766
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:14:38Z",
+        "age_minutes": 16.7,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52806854248047,
+          44.549503326416016
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:15:10Z",
         "age_minutes": 16.1,
         "minutes_bin": "15-30"
       }
@@ -1026,13 +906,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.30791473388672,
-          44.60356521606445
+          -73.50809478759766,
+          44.55976486206055
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:15:35Z",
-        "age_minutes": 16.0,
+        "time": "2026-08-06T19:15:44Z",
+        "age_minutes": 15.6,
         "minutes_bin": "15-30"
       }
     },
@@ -1041,13 +921,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.53142547607422,
-          44.69050216674805
+          -74.27018737792969,
+          44.94910430908203
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:16:07Z",
-        "age_minutes": 15.4,
+        "time": "2026-08-06T19:16:12Z",
+        "age_minutes": 15.1,
         "minutes_bin": "15-30"
       }
     },
@@ -1056,13 +936,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.20660400390625,
-          44.66212463378906
+          -73.40384674072266,
+          44.570953369140625
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:16:12Z",
-        "age_minutes": 15.4,
+        "time": "2026-08-06T19:16:14Z",
+        "age_minutes": 15.1,
         "minutes_bin": "15-30"
       }
     },
@@ -1071,13 +951,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.531494140625,
-          44.693260192871094
+          -73.49286651611328,
+          44.57548904418945
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:16:51Z",
-        "age_minutes": 14.7,
+        "time": "2026-08-06T19:17:01Z",
+        "age_minutes": 14.3,
         "minutes_bin": "5-15"
       }
     },
@@ -1086,27 +966,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.27865600585938,
-          44.604400634765625
+          -73.50308227539062,
+          44.57927322387695
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:17:05Z",
-        "age_minutes": 14.5,
-        "minutes_bin": "5-15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.53177642822266,
-          44.69157791137695
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:17:41Z",
+        "time": "2026-08-06T19:17:26Z",
         "age_minutes": 13.9,
         "minutes_bin": "5-15"
       }
@@ -1116,13 +981,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28282165527344,
-          44.64544677734375
+          -73.44860076904297,
+          44.54771423339844
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:18:50Z",
-        "age_minutes": 12.7,
+        "time": "2026-08-06T19:17:55Z",
+        "age_minutes": 13.4,
         "minutes_bin": "5-15"
       }
     },
@@ -1131,13 +996,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.19771575927734,
-          44.682796478271484
+          -73.48503112792969,
+          44.60281753540039
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:20:15Z",
-        "age_minutes": 11.3,
+        "time": "2026-08-06T19:18:21Z",
+        "age_minutes": 13.0,
         "minutes_bin": "5-15"
       }
     },
@@ -1146,13 +1011,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.53174591064453,
-          44.690486907958984
+          -73.53239440917969,
+          44.573341369628906
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:20:44Z",
-        "age_minutes": 10.8,
+        "time": "2026-08-06T19:18:55Z",
+        "age_minutes": 12.4,
         "minutes_bin": "5-15"
       }
     },
@@ -1161,13 +1026,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.27010345458984,
-          44.65582275390625
+          -73.3267593383789,
+          44.62156677246094
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:21:14Z",
-        "age_minutes": 10.3,
+        "time": "2026-08-06T19:19:04Z",
+        "age_minutes": 12.2,
         "minutes_bin": "5-15"
       }
     },
@@ -1176,13 +1041,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.28336334228516,
-          44.64107131958008
+          -74.25941467285156,
+          44.99068069458008
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:21:14Z",
-        "age_minutes": 10.3,
+        "time": "2026-08-06T19:19:34Z",
+        "age_minutes": 11.7,
         "minutes_bin": "5-15"
       }
     },
@@ -1191,13 +1056,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2364273071289,
-          44.57305908203125
+          -73.42906951904297,
+          44.57221984863281
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:21:46Z",
-        "age_minutes": 9.8,
+        "time": "2026-08-06T19:19:42Z",
+        "age_minutes": 11.6,
         "minutes_bin": "5-15"
       }
     },
@@ -1206,13 +1071,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.22219848632812,
-          44.577301025390625
+          -73.5084228515625,
+          44.50520324707031
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:23:06Z",
-        "age_minutes": 8.5,
+        "time": "2026-08-06T19:20:38Z",
+        "age_minutes": 10.7,
         "minutes_bin": "5-15"
       }
     },
@@ -1221,13 +1086,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.23121643066406,
-          44.66178894042969
+          -73.43444061279297,
+          44.54049301147461
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:23:44Z",
-        "age_minutes": 7.8,
+        "time": "2026-08-06T19:21:06Z",
+        "age_minutes": 10.2,
         "minutes_bin": "5-15"
       }
     },
@@ -1236,13 +1101,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.21678161621094,
-          44.6973991394043
+          -73.48625946044922,
+          44.54732131958008
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:24:29Z",
-        "age_minutes": 7.1,
+        "time": "2026-08-06T19:21:34Z",
+        "age_minutes": 9.7,
         "minutes_bin": "5-15"
       }
     },
@@ -1251,12 +1116,162 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2289810180664,
-          44.57685852050781
+          -73.30551147460938,
+          44.6888427734375
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:25:08Z",
+        "time": "2026-08-06T19:21:37Z",
+        "age_minutes": 9.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.36121368408203,
+          44.52263641357422
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:21:37Z",
+        "age_minutes": 9.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41886901855469,
+          44.53743362426758
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:22:13Z",
+        "age_minutes": 9.1,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.42815399169922,
+          44.558189392089844
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:22:51Z",
+        "age_minutes": 8.4,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41830444335938,
+          44.53447723388672
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:23:06Z",
+        "age_minutes": 8.2,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41226959228516,
+          44.543678283691406
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:23:19Z",
+        "age_minutes": 8.0,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4095458984375,
+          44.54454803466797
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:23:37Z",
+        "age_minutes": 7.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41947174072266,
+          44.53705978393555
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:23:49Z",
+        "age_minutes": 7.5,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.41727447509766,
+          44.548866271972656
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:24:16Z",
+        "age_minutes": 7.0,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.42228698730469,
+          44.54510498046875
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:24:34Z",
+        "age_minutes": 6.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35516357421875,
+          44.55488586425781
+        ]
+      },
+      "properties": {
+        "time": "2026-08-06T19:24:55Z",
         "age_minutes": 6.4,
         "minutes_bin": "5-15"
       }
@@ -1266,13 +1281,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.14675903320312,
-          44.77546691894531
+          -73.39999389648438,
+          44.53593826293945
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:25:57Z",
-        "age_minutes": 5.6,
+        "time": "2026-08-06T19:25:20Z",
+        "age_minutes": 6.0,
         "minutes_bin": "5-15"
       }
     },
@@ -1281,13 +1296,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.92300415039062,
-          44.85826873779297
+          -73.42146301269531,
+          44.551788330078125
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:26:19Z",
-        "age_minutes": 5.2,
+        "time": "2026-08-06T19:25:25Z",
+        "age_minutes": 5.9,
         "minutes_bin": "5-15"
       }
     },
@@ -1296,28 +1311,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.73246765136719,
-          44.46062469482422
+          -73.35406494140625,
+          44.53366470336914
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:26:33Z",
+        "time": "2026-08-06T19:26:19Z",
         "age_minutes": 5.0,
-        "minutes_bin": "5-15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.18434143066406,
-          44.67929458618164
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:26:45Z",
-        "age_minutes": 4.8,
         "minutes_bin": "0-5"
       }
     },
@@ -1326,13 +1326,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.44822692871094,
-          44.664695739746094
+          -73.4017562866211,
+          44.55368423461914
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:26:47Z",
-        "age_minutes": 4.8,
+        "time": "2026-08-06T19:26:59Z",
+        "age_minutes": 4.3,
         "minutes_bin": "0-5"
       }
     },
@@ -1341,13 +1341,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.1524658203125,
-          44.618656158447266
+          -73.38368225097656,
+          44.54868698120117
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:27:40Z",
-        "age_minutes": 3.9,
+        "time": "2026-08-06T19:27:53Z",
+        "age_minutes": 3.4,
         "minutes_bin": "0-5"
       }
     },
@@ -1356,42 +1356,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.95502471923828,
-          44.857948303222656
+          -73.36322784423828,
+          44.55625534057617
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:28:03Z",
-        "age_minutes": 3.5,
-        "minutes_bin": "0-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.17790985107422,
-          44.5265007019043
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:28:22Z",
-        "age_minutes": 3.2,
-        "minutes_bin": "0-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.95604705810547,
-          44.85995101928711
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:28:59Z",
+        "time": "2026-08-06T19:28:44Z",
         "age_minutes": 2.6,
         "minutes_bin": "0-5"
       }
@@ -1401,13 +1371,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.15699768066406,
-          44.66891860961914
+          -73.41702270507812,
+          44.60279846191406
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:29:01Z",
-        "age_minutes": 2.5,
+        "time": "2026-08-06T19:30:00Z",
+        "age_minutes": 1.3,
         "minutes_bin": "0-5"
       }
     },
@@ -1416,13 +1386,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.95600891113281,
-          44.85894775390625
+          -73.24495697021484,
+          44.52180480957031
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:29:35Z",
-        "age_minutes": 2.0,
+        "time": "2026-08-06T19:30:17Z",
+        "age_minutes": 1.0,
         "minutes_bin": "0-5"
       }
     },
@@ -1431,73 +1401,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96891784667969,
-          44.86027908325195
+          -73.41703796386719,
+          44.522483825683594
         ]
       },
       "properties": {
-        "time": "2026-08-06T17:30:04Z",
-        "age_minutes": 1.5,
-        "minutes_bin": "0-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.41944885253906,
-          44.71316146850586
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:30:11Z",
-        "age_minutes": 1.4,
-        "minutes_bin": "0-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.11262512207031,
-          44.79274368286133
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:30:39Z",
+        "time": "2026-08-06T19:30:21Z",
         "age_minutes": 0.9,
-        "minutes_bin": "0-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9547119140625,
-          44.858890533447266
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:30:51Z",
-        "age_minutes": 0.7,
-        "minutes_bin": "0-5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.95073699951172,
-          44.87980651855469
-        ]
-      },
-      "properties": {
-        "time": "2026-08-06T17:31:13Z",
-        "age_minutes": 0.3,
         "minutes_bin": "0-5"
       }
     }
