@@ -6,43 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.95529174804688,
-          43.811424255371094
-        ]
-      },
-      "properties": {
-        "time": "2026-08-07T02:22:55Z",
-        "age_minutes": 53.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.89439392089844,
-          43.85319900512695
-        ]
-      },
-      "properties": {
-        "time": "2026-08-07T02:28:28Z",
-        "age_minutes": 47.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.96866607666016,
           43.683799743652344
         ]
       },
       "properties": {
         "time": "2026-08-07T02:46:03Z",
-        "age_minutes": 30.0,
+        "age_minutes": 45.2,
         "minutes_bin": "30-60"
       }
     },
@@ -57,8 +27,8 @@
       },
       "properties": {
         "time": "2026-08-07T02:51:40Z",
-        "age_minutes": 24.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 39.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -72,8 +42,8 @@
       },
       "properties": {
         "time": "2026-08-07T02:55:12Z",
-        "age_minutes": 20.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 36.1,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -87,8 +57,8 @@
       },
       "properties": {
         "time": "2026-08-07T03:02:42Z",
-        "age_minutes": 13.4,
-        "minutes_bin": "5-15"
+        "age_minutes": 28.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -102,8 +72,8 @@
       },
       "properties": {
         "time": "2026-08-07T03:05:31Z",
-        "age_minutes": 10.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 25.8,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -117,8 +87,8 @@
       },
       "properties": {
         "time": "2026-08-07T03:07:56Z",
-        "age_minutes": 8.1,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.4,
+        "minutes_bin": "15-30"
       }
     }
   ]
