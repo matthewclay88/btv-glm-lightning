@@ -6,28 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.01397705078125,
-          44.08833312988281
-        ]
-      },
-      "properties": {
-        "time": "2026-08-09T03:03:37Z",
-        "age_minutes": 57.7,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.97167205810547,
           44.13296890258789
         ]
       },
       "properties": {
         "time": "2026-08-09T03:09:15Z",
-        "age_minutes": 52.1,
+        "age_minutes": 54.9,
         "minutes_bin": "30-60"
       }
     },
@@ -42,7 +27,7 @@
       },
       "properties": {
         "time": "2026-08-09T03:19:51Z",
-        "age_minutes": 41.5,
+        "age_minutes": 44.3,
         "minutes_bin": "30-60"
       }
     }
