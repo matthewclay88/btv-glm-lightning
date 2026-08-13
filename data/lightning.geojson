@@ -6,748 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.2024154663086,
-          44.31389236450195
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:01:20Z",
-        "age_minutes": 60.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.4155502319336,
-          44.170223236083984
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:01:33Z",
-        "age_minutes": 59.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.51478576660156,
-          44.086421966552734
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:01:39Z",
-        "age_minutes": 59.7,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.53704833984375,
-          44.088382720947266
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:02:03Z",
-        "age_minutes": 59.3,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.45613098144531,
-          44.108924865722656
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:02:32Z",
-        "age_minutes": 58.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.4344711303711,
-          44.129859924316406
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:02:33Z",
-        "age_minutes": 58.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.53611755371094,
-          44.081844329833984
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:03:21Z",
-        "age_minutes": 58.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2016372680664,
-          44.273197174072266
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:03:22Z",
-        "age_minutes": 58.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.51475524902344,
-          44.08063888549805
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:04:05Z",
-        "age_minutes": 57.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.65240478515625,
-          44.080810546875
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:04:44Z",
-        "age_minutes": 56.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.42430877685547,
-          44.238990783691406
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:04:47Z",
-        "age_minutes": 56.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.4858169555664,
-          44.08816909790039
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:05:00Z",
-        "age_minutes": 56.3,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.5204849243164,
-          44.08367156982422
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:05:15Z",
-        "age_minutes": 56.1,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.38521575927734,
-          44.11994171142578
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:05:32Z",
-        "age_minutes": 55.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1893310546875,
-          44.30622100830078
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:05:41Z",
-        "age_minutes": 55.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.47401428222656,
-          44.1008415222168
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:05:54Z",
-        "age_minutes": 55.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.48938751220703,
-          44.08148193359375
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:06:19Z",
-        "age_minutes": 55.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5547866821289,
-          44.30118179321289
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:06:22Z",
-        "age_minutes": 55.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.45301055908203,
-          44.090362548828125
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:06:46Z",
-        "age_minutes": 54.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.46746826171875,
-          44.09375
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:07:13Z",
-        "age_minutes": 54.1,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.26052856445312,
-          44.272254943847656
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:08:07Z",
-        "age_minutes": 53.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.51953125,
-          44.13885498046875
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:08:26Z",
-        "age_minutes": 52.9,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.43074035644531,
-          44.09233474731445
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:08:52Z",
-        "age_minutes": 52.5,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.49451446533203,
-          44.31468200683594
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:08:56Z",
-        "age_minutes": 52.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.14804077148438,
-          44.2855224609375
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:09:19Z",
-        "age_minutes": 52.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.44475555419922,
-          44.09174728393555
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:09:21Z",
-        "age_minutes": 52.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.42821502685547,
-          44.096038818359375
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:09:46Z",
-        "age_minutes": 51.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.63388061523438,
-          44.019447326660156
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:10:00Z",
-        "age_minutes": 51.3,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.13024139404297,
-          44.257080078125
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:10:10Z",
-        "age_minutes": 51.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.40473175048828,
-          44.084476470947266
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:10:19Z",
-        "age_minutes": 51.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.03569030761719,
-          44.233497619628906
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:10:20Z",
-        "age_minutes": 51.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.12995910644531,
-          44.16653060913086
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:10:44Z",
-        "age_minutes": 50.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.43818664550781,
-          44.082237243652344
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:10:58Z",
-        "age_minutes": 50.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.41932678222656,
-          44.09728240966797
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:11:42Z",
-        "age_minutes": 49.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.51815032958984,
-          44.33639144897461
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:11:42Z",
-        "age_minutes": 49.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.10974884033203,
-          44.23289108276367
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:11:59Z",
-        "age_minutes": 49.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.4225845336914,
-          44.06842803955078
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:12:23Z",
-        "age_minutes": 49.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.40147399902344,
-          44.31867980957031
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:12:23Z",
-        "age_minutes": 48.9,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.41455841064453,
-          44.10871124267578
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:13:03Z",
-        "age_minutes": 48.3,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.08639526367188,
-          44.15058135986328
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:13:16Z",
-        "age_minutes": 48.1,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.32951354980469,
-          44.297916412353516
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:13:40Z",
-        "age_minutes": 47.7,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.60917663574219,
-          44.02433395385742
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:13:43Z",
-        "age_minutes": 47.6,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.38309478759766,
-          44.12110900878906
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:14:10Z",
-        "age_minutes": 47.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.05706787109375,
-          44.120479583740234
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:14:21Z",
-        "age_minutes": 47.0,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.4051742553711,
-          44.101749420166016
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:14:32Z",
-        "age_minutes": 46.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.41473388671875,
-          44.07152557373047
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:14:56Z",
-        "age_minutes": 46.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.36479949951172,
-          44.08829879760742
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:15:23Z",
-        "age_minutes": 45.9,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.06072235107422,
-          44.223114013671875
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:15:31Z",
-        "age_minutes": 45.8,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5426254272461,
-          44.28080749511719
-        ]
-      },
-      "properties": {
-        "time": "2026-08-13T07:15:52Z",
-        "age_minutes": 45.5,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.23479461669922,
           44.29179382324219
         ]
       },
       "properties": {
         "time": "2026-08-13T07:16:09Z",
-        "age_minutes": 45.2,
+        "age_minutes": 59.9,
         "minutes_bin": "30-60"
       }
     },
@@ -762,7 +27,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:16:11Z",
-        "age_minutes": 45.1,
+        "age_minutes": 59.8,
         "minutes_bin": "30-60"
       }
     },
@@ -777,7 +42,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:16:13Z",
-        "age_minutes": 45.1,
+        "age_minutes": 59.8,
         "minutes_bin": "30-60"
       }
     },
@@ -792,7 +57,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:16:13Z",
-        "age_minutes": 45.1,
+        "age_minutes": 59.8,
         "minutes_bin": "30-60"
       }
     },
@@ -807,7 +72,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:16:14Z",
-        "age_minutes": 45.1,
+        "age_minutes": 59.8,
         "minutes_bin": "30-60"
       }
     },
@@ -822,7 +87,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:16:40Z",
-        "age_minutes": 44.7,
+        "age_minutes": 59.4,
         "minutes_bin": "30-60"
       }
     },
@@ -837,7 +102,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:16:49Z",
-        "age_minutes": 44.5,
+        "age_minutes": 59.2,
         "minutes_bin": "30-60"
       }
     },
@@ -852,7 +117,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:16:52Z",
-        "age_minutes": 44.5,
+        "age_minutes": 59.2,
         "minutes_bin": "30-60"
       }
     },
@@ -867,7 +132,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:17:18Z",
-        "age_minutes": 44.0,
+        "age_minutes": 58.7,
         "minutes_bin": "30-60"
       }
     },
@@ -882,7 +147,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:17:36Z",
-        "age_minutes": 43.7,
+        "age_minutes": 58.4,
         "minutes_bin": "30-60"
       }
     },
@@ -897,7 +162,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:17:39Z",
-        "age_minutes": 43.7,
+        "age_minutes": 58.4,
         "minutes_bin": "30-60"
       }
     },
@@ -912,7 +177,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:17:45Z",
-        "age_minutes": 43.6,
+        "age_minutes": 58.3,
         "minutes_bin": "30-60"
       }
     },
@@ -927,7 +192,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:17:51Z",
-        "age_minutes": 43.5,
+        "age_minutes": 58.2,
         "minutes_bin": "30-60"
       }
     },
@@ -942,7 +207,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:18:03Z",
-        "age_minutes": 43.3,
+        "age_minutes": 58.0,
         "minutes_bin": "30-60"
       }
     },
@@ -957,7 +222,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:18:17Z",
-        "age_minutes": 43.1,
+        "age_minutes": 57.7,
         "minutes_bin": "30-60"
       }
     },
@@ -972,7 +237,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:18:20Z",
-        "age_minutes": 43.0,
+        "age_minutes": 57.7,
         "minutes_bin": "30-60"
       }
     },
@@ -987,7 +252,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:18:41Z",
-        "age_minutes": 42.6,
+        "age_minutes": 57.3,
         "minutes_bin": "30-60"
       }
     },
@@ -1002,7 +267,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:19:03Z",
-        "age_minutes": 42.3,
+        "age_minutes": 57.0,
         "minutes_bin": "30-60"
       }
     },
@@ -1017,7 +282,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:19:11Z",
-        "age_minutes": 42.1,
+        "age_minutes": 56.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1032,7 +297,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:19:27Z",
-        "age_minutes": 41.9,
+        "age_minutes": 56.6,
         "minutes_bin": "30-60"
       }
     },
@@ -1047,7 +312,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:19:40Z",
-        "age_minutes": 41.7,
+        "age_minutes": 56.4,
         "minutes_bin": "30-60"
       }
     },
@@ -1062,7 +327,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:20:26Z",
-        "age_minutes": 40.9,
+        "age_minutes": 55.6,
         "minutes_bin": "30-60"
       }
     },
@@ -1077,7 +342,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:20:33Z",
-        "age_minutes": 40.8,
+        "age_minutes": 55.5,
         "minutes_bin": "30-60"
       }
     },
@@ -1092,7 +357,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:21:05Z",
-        "age_minutes": 40.3,
+        "age_minutes": 54.9,
         "minutes_bin": "30-60"
       }
     },
@@ -1107,7 +372,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:21:25Z",
-        "age_minutes": 39.9,
+        "age_minutes": 54.6,
         "minutes_bin": "30-60"
       }
     },
@@ -1122,7 +387,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:21:44Z",
-        "age_minutes": 39.6,
+        "age_minutes": 54.3,
         "minutes_bin": "30-60"
       }
     },
@@ -1137,7 +402,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:21:50Z",
-        "age_minutes": 39.5,
+        "age_minutes": 54.2,
         "minutes_bin": "30-60"
       }
     },
@@ -1152,7 +417,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:22:23Z",
-        "age_minutes": 38.9,
+        "age_minutes": 53.6,
         "minutes_bin": "30-60"
       }
     },
@@ -1167,7 +432,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:22:27Z",
-        "age_minutes": 38.9,
+        "age_minutes": 53.6,
         "minutes_bin": "30-60"
       }
     },
@@ -1182,7 +447,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:23:05Z",
-        "age_minutes": 38.3,
+        "age_minutes": 52.9,
         "minutes_bin": "30-60"
       }
     },
@@ -1197,7 +462,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:23:15Z",
-        "age_minutes": 38.1,
+        "age_minutes": 52.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1212,7 +477,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:23:21Z",
-        "age_minutes": 38.0,
+        "age_minutes": 52.7,
         "minutes_bin": "30-60"
       }
     },
@@ -1227,7 +492,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:23:32Z",
-        "age_minutes": 37.8,
+        "age_minutes": 52.5,
         "minutes_bin": "30-60"
       }
     },
@@ -1242,7 +507,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:23:43Z",
-        "age_minutes": 37.6,
+        "age_minutes": 52.3,
         "minutes_bin": "30-60"
       }
     },
@@ -1257,7 +522,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:23:51Z",
-        "age_minutes": 37.5,
+        "age_minutes": 52.2,
         "minutes_bin": "30-60"
       }
     },
@@ -1272,7 +537,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:24:21Z",
-        "age_minutes": 37.0,
+        "age_minutes": 51.7,
         "minutes_bin": "30-60"
       }
     },
@@ -1287,7 +552,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:24:50Z",
-        "age_minutes": 36.5,
+        "age_minutes": 51.2,
         "minutes_bin": "30-60"
       }
     },
@@ -1302,7 +567,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:24:58Z",
-        "age_minutes": 36.4,
+        "age_minutes": 51.1,
         "minutes_bin": "30-60"
       }
     },
@@ -1317,7 +582,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:25:15Z",
-        "age_minutes": 36.1,
+        "age_minutes": 50.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1332,7 +597,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:25:16Z",
-        "age_minutes": 36.1,
+        "age_minutes": 50.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1347,7 +612,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:25:16Z",
-        "age_minutes": 36.1,
+        "age_minutes": 50.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1362,7 +627,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:25:25Z",
-        "age_minutes": 35.9,
+        "age_minutes": 50.6,
         "minutes_bin": "30-60"
       }
     },
@@ -1377,7 +642,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:25:47Z",
-        "age_minutes": 35.6,
+        "age_minutes": 50.2,
         "minutes_bin": "30-60"
       }
     },
@@ -1392,7 +657,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:25:48Z",
-        "age_minutes": 35.5,
+        "age_minutes": 50.2,
         "minutes_bin": "30-60"
       }
     },
@@ -1407,7 +672,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:25:49Z",
-        "age_minutes": 35.5,
+        "age_minutes": 50.2,
         "minutes_bin": "30-60"
       }
     },
@@ -1422,7 +687,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:26:12Z",
-        "age_minutes": 35.1,
+        "age_minutes": 49.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1437,7 +702,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:26:37Z",
-        "age_minutes": 34.7,
+        "age_minutes": 49.4,
         "minutes_bin": "30-60"
       }
     },
@@ -1452,7 +717,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:26:41Z",
-        "age_minutes": 34.6,
+        "age_minutes": 49.3,
         "minutes_bin": "30-60"
       }
     },
@@ -1467,7 +732,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:26:44Z",
-        "age_minutes": 34.6,
+        "age_minutes": 49.3,
         "minutes_bin": "30-60"
       }
     },
@@ -1482,7 +747,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:27:10Z",
-        "age_minutes": 34.2,
+        "age_minutes": 48.9,
         "minutes_bin": "30-60"
       }
     },
@@ -1497,7 +762,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:27:12Z",
-        "age_minutes": 34.1,
+        "age_minutes": 48.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1512,7 +777,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:27:27Z",
-        "age_minutes": 33.9,
+        "age_minutes": 48.6,
         "minutes_bin": "30-60"
       }
     },
@@ -1527,7 +792,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:27:35Z",
-        "age_minutes": 33.7,
+        "age_minutes": 48.4,
         "minutes_bin": "30-60"
       }
     },
@@ -1542,7 +807,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:28:15Z",
-        "age_minutes": 33.1,
+        "age_minutes": 47.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1557,7 +822,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:28:42Z",
-        "age_minutes": 32.6,
+        "age_minutes": 47.3,
         "minutes_bin": "30-60"
       }
     },
@@ -1572,7 +837,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:29:02Z",
-        "age_minutes": 32.3,
+        "age_minutes": 47.0,
         "minutes_bin": "30-60"
       }
     },
@@ -1587,7 +852,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:29:04Z",
-        "age_minutes": 32.3,
+        "age_minutes": 47.0,
         "minutes_bin": "30-60"
       }
     },
@@ -1602,7 +867,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:29:07Z",
-        "age_minutes": 32.2,
+        "age_minutes": 46.9,
         "minutes_bin": "30-60"
       }
     },
@@ -1617,7 +882,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:29:11Z",
-        "age_minutes": 32.1,
+        "age_minutes": 46.8,
         "minutes_bin": "30-60"
       }
     },
@@ -1632,7 +897,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:30:04Z",
-        "age_minutes": 31.3,
+        "age_minutes": 46.0,
         "minutes_bin": "30-60"
       }
     },
@@ -1647,7 +912,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:30:08Z",
-        "age_minutes": 31.2,
+        "age_minutes": 45.9,
         "minutes_bin": "30-60"
       }
     },
@@ -1662,7 +927,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:30:22Z",
-        "age_minutes": 31.0,
+        "age_minutes": 45.7,
         "minutes_bin": "30-60"
       }
     },
@@ -1677,7 +942,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:30:53Z",
-        "age_minutes": 30.4,
+        "age_minutes": 45.1,
         "minutes_bin": "30-60"
       }
     },
@@ -1692,7 +957,7 @@
       },
       "properties": {
         "time": "2026-08-13T07:31:18Z",
-        "age_minutes": 30.0,
+        "age_minutes": 44.7,
         "minutes_bin": "30-60"
       }
     },
@@ -1707,8 +972,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:31:25Z",
-        "age_minutes": 29.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 44.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1722,8 +987,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:31:26Z",
-        "age_minutes": 29.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 44.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1737,8 +1002,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:31:50Z",
-        "age_minutes": 29.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 44.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1752,8 +1017,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:32:14Z",
-        "age_minutes": 29.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 43.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1767,8 +1032,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:32:24Z",
-        "age_minutes": 28.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 43.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1782,8 +1047,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:32:31Z",
-        "age_minutes": 28.8,
-        "minutes_bin": "15-30"
+        "age_minutes": 43.5,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1797,8 +1062,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:32:48Z",
-        "age_minutes": 28.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 43.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1812,8 +1077,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:32:48Z",
-        "age_minutes": 28.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 43.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1827,8 +1092,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:33:26Z",
-        "age_minutes": 27.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 42.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1842,8 +1107,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:33:59Z",
-        "age_minutes": 27.3,
-        "minutes_bin": "15-30"
+        "age_minutes": 42.0,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1857,8 +1122,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:34:01Z",
-        "age_minutes": 27.3,
-        "minutes_bin": "15-30"
+        "age_minutes": 42.0,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1872,8 +1137,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:34:02Z",
-        "age_minutes": 27.3,
-        "minutes_bin": "15-30"
+        "age_minutes": 42.0,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1887,8 +1152,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:35:08Z",
-        "age_minutes": 26.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1902,8 +1167,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:35:10Z",
-        "age_minutes": 26.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1917,8 +1182,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:35:16Z",
-        "age_minutes": 26.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1932,8 +1197,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:35:17Z",
-        "age_minutes": 26.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.7,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1947,8 +1212,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:35:17Z",
-        "age_minutes": 26.0,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.7,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1962,8 +1227,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:35:40Z",
-        "age_minutes": 25.7,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.4,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1977,8 +1242,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:35:49Z",
-        "age_minutes": 25.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -1992,8 +1257,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:36:10Z",
-        "age_minutes": 25.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 39.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2007,8 +1272,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:36:15Z",
-        "age_minutes": 25.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 39.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2022,8 +1287,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:36:16Z",
-        "age_minutes": 25.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 39.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2037,8 +1302,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:36:32Z",
-        "age_minutes": 24.8,
-        "minutes_bin": "15-30"
+        "age_minutes": 39.5,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2052,8 +1317,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:36:55Z",
-        "age_minutes": 24.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 39.1,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2067,8 +1332,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:37:08Z",
-        "age_minutes": 24.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 38.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2082,8 +1347,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:37:09Z",
-        "age_minutes": 24.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 38.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2097,8 +1362,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:37:23Z",
-        "age_minutes": 23.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 38.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2112,8 +1377,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:37:57Z",
-        "age_minutes": 23.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 38.1,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2127,8 +1392,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:38:15Z",
-        "age_minutes": 23.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 37.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2142,8 +1407,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:38:48Z",
-        "age_minutes": 22.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 37.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2157,8 +1422,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:38:58Z",
-        "age_minutes": 22.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 37.1,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2172,8 +1437,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:39:17Z",
-        "age_minutes": 22.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 36.7,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2187,8 +1452,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:39:36Z",
-        "age_minutes": 21.7,
-        "minutes_bin": "15-30"
+        "age_minutes": 36.4,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2202,8 +1467,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:39:51Z",
-        "age_minutes": 21.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 36.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2217,8 +1482,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:40:06Z",
-        "age_minutes": 21.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 35.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2232,8 +1497,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:40:22Z",
-        "age_minutes": 21.0,
-        "minutes_bin": "15-30"
+        "age_minutes": 35.7,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2247,8 +1512,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:40:23Z",
-        "age_minutes": 21.0,
-        "minutes_bin": "15-30"
+        "age_minutes": 35.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2262,8 +1527,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:41:05Z",
-        "age_minutes": 20.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 34.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2277,8 +1542,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:41:14Z",
-        "age_minutes": 20.1,
-        "minutes_bin": "15-30"
+        "age_minutes": 34.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2292,8 +1557,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:41:29Z",
-        "age_minutes": 19.8,
-        "minutes_bin": "15-30"
+        "age_minutes": 34.5,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2307,8 +1572,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:41:50Z",
-        "age_minutes": 19.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 34.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2322,8 +1587,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:41:51Z",
-        "age_minutes": 19.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 34.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2337,8 +1602,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:42:09Z",
-        "age_minutes": 19.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 33.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2352,8 +1617,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:42:11Z",
-        "age_minutes": 19.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 33.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2367,8 +1632,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:42:41Z",
-        "age_minutes": 18.7,
-        "minutes_bin": "15-30"
+        "age_minutes": 33.3,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2382,8 +1647,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:42:44Z",
-        "age_minutes": 18.6,
-        "minutes_bin": "15-30"
+        "age_minutes": 33.3,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2397,8 +1662,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:43:05Z",
-        "age_minutes": 18.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 32.9,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2412,8 +1677,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:43:24Z",
-        "age_minutes": 17.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 32.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2427,8 +1692,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:43:55Z",
-        "age_minutes": 17.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 32.1,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2442,8 +1707,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:44:01Z",
-        "age_minutes": 17.3,
-        "minutes_bin": "15-30"
+        "age_minutes": 32.0,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2457,8 +1722,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:44:23Z",
-        "age_minutes": 16.9,
-        "minutes_bin": "15-30"
+        "age_minutes": 31.6,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2472,8 +1737,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:44:54Z",
-        "age_minutes": 16.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 31.1,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2487,8 +1752,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:44:55Z",
-        "age_minutes": 16.4,
-        "minutes_bin": "15-30"
+        "age_minutes": 31.1,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2502,8 +1767,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:45:00Z",
-        "age_minutes": 16.3,
-        "minutes_bin": "15-30"
+        "age_minutes": 31.0,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2517,8 +1782,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:45:11Z",
-        "age_minutes": 16.2,
-        "minutes_bin": "15-30"
+        "age_minutes": 30.8,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2532,8 +1797,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:45:35Z",
-        "age_minutes": 15.8,
-        "minutes_bin": "15-30"
+        "age_minutes": 30.4,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2547,8 +1812,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:45:50Z",
-        "age_minutes": 15.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 30.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -2562,8 +1827,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:46:44Z",
-        "age_minutes": 14.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 29.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2577,8 +1842,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:46:56Z",
-        "age_minutes": 14.4,
-        "minutes_bin": "5-15"
+        "age_minutes": 29.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2592,8 +1857,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:47:14Z",
-        "age_minutes": 14.1,
-        "minutes_bin": "5-15"
+        "age_minutes": 28.8,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2607,8 +1872,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:47:44Z",
-        "age_minutes": 13.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 28.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2622,8 +1887,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:47:51Z",
-        "age_minutes": 13.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 28.2,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2637,8 +1902,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:01Z",
-        "age_minutes": 13.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 28.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2652,8 +1917,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:04Z",
-        "age_minutes": 13.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 28.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2667,8 +1932,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:05Z",
-        "age_minutes": 13.2,
-        "minutes_bin": "5-15"
+        "age_minutes": 27.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2682,8 +1947,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:07Z",
-        "age_minutes": 13.2,
-        "minutes_bin": "5-15"
+        "age_minutes": 27.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2697,8 +1962,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:24Z",
-        "age_minutes": 12.9,
-        "minutes_bin": "5-15"
+        "age_minutes": 27.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2712,8 +1977,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:29Z",
-        "age_minutes": 12.9,
-        "minutes_bin": "5-15"
+        "age_minutes": 27.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2727,8 +1992,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:43Z",
-        "age_minutes": 12.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 27.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2742,8 +2007,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:48:50Z",
-        "age_minutes": 12.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 27.2,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2757,8 +2022,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:49:06Z",
-        "age_minutes": 12.2,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2772,8 +2037,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:49:30Z",
-        "age_minutes": 11.8,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2787,8 +2052,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:49:42Z",
-        "age_minutes": 11.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2802,8 +2067,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:49:45Z",
-        "age_minutes": 11.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2817,8 +2082,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:49:58Z",
-        "age_minutes": 11.4,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2832,8 +2097,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:50:04Z",
-        "age_minutes": 11.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2847,8 +2112,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:50:20Z",
-        "age_minutes": 11.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 25.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2862,8 +2127,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:50:22Z",
-        "age_minutes": 11.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 25.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2877,8 +2142,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:50:46Z",
-        "age_minutes": 10.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 25.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2892,8 +2157,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:50:58Z",
-        "age_minutes": 10.4,
-        "minutes_bin": "5-15"
+        "age_minutes": 25.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2907,8 +2172,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:51:02Z",
-        "age_minutes": 10.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 25.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2922,8 +2187,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:51:19Z",
-        "age_minutes": 10.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2937,8 +2202,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:51:28Z",
-        "age_minutes": 9.9,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2952,8 +2217,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:51:47Z",
-        "age_minutes": 9.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.2,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2967,8 +2232,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:51:49Z",
-        "age_minutes": 9.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.2,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2982,8 +2247,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:03Z",
-        "age_minutes": 9.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -2997,8 +2262,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:05Z",
-        "age_minutes": 9.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3012,8 +2277,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:18Z",
-        "age_minutes": 9.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3027,8 +2292,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:18Z",
-        "age_minutes": 9.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3042,8 +2307,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:23Z",
-        "age_minutes": 9.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3057,8 +2322,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:42Z",
-        "age_minutes": 8.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3072,8 +2337,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:43Z",
-        "age_minutes": 8.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3087,8 +2352,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:52:54Z",
-        "age_minutes": 8.4,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3102,8 +2367,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:53:04Z",
-        "age_minutes": 8.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 23.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3117,8 +2382,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:53:21Z",
-        "age_minutes": 8.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3132,8 +2397,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:53:25Z",
-        "age_minutes": 7.9,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3147,8 +2412,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:53:37Z",
-        "age_minutes": 7.7,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.4,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3162,8 +2427,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:53:41Z",
-        "age_minutes": 7.7,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3177,8 +2442,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:53:50Z",
-        "age_minutes": 7.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.2,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3192,8 +2457,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:53:53Z",
-        "age_minutes": 7.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3207,8 +2472,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:54:03Z",
-        "age_minutes": 7.3,
-        "minutes_bin": "5-15"
+        "age_minutes": 22.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3222,8 +2487,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:54:11Z",
-        "age_minutes": 7.1,
-        "minutes_bin": "5-15"
+        "age_minutes": 21.8,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3237,8 +2502,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:54:22Z",
-        "age_minutes": 7.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 21.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3252,8 +2517,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:54:30Z",
-        "age_minutes": 6.8,
-        "minutes_bin": "5-15"
+        "age_minutes": 21.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3267,8 +2532,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:54:44Z",
-        "age_minutes": 6.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 21.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3282,8 +2547,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:54:47Z",
-        "age_minutes": 6.6,
-        "minutes_bin": "5-15"
+        "age_minutes": 21.2,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3297,8 +2562,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:54:55Z",
-        "age_minutes": 6.4,
-        "minutes_bin": "5-15"
+        "age_minutes": 21.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3312,8 +2577,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:55:09Z",
-        "age_minutes": 6.2,
-        "minutes_bin": "5-15"
+        "age_minutes": 20.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3327,8 +2592,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:55:12Z",
-        "age_minutes": 6.1,
-        "minutes_bin": "5-15"
+        "age_minutes": 20.8,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3342,8 +2607,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:55:18Z",
-        "age_minutes": 6.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 20.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3357,8 +2622,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:55:22Z",
-        "age_minutes": 6.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 20.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3372,8 +2637,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:55:23Z",
-        "age_minutes": 5.9,
-        "minutes_bin": "5-15"
+        "age_minutes": 20.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3387,8 +2652,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:55:37Z",
-        "age_minutes": 5.7,
-        "minutes_bin": "5-15"
+        "age_minutes": 20.4,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3402,8 +2667,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:55:50Z",
-        "age_minutes": 5.5,
-        "minutes_bin": "5-15"
+        "age_minutes": 20.2,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3417,8 +2682,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:10Z",
-        "age_minutes": 5.2,
-        "minutes_bin": "5-15"
+        "age_minutes": 19.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3432,8 +2697,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:17Z",
-        "age_minutes": 5.1,
-        "minutes_bin": "5-15"
+        "age_minutes": 19.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3447,8 +2712,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:26Z",
-        "age_minutes": 4.9,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3462,8 +2727,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:27Z",
-        "age_minutes": 4.9,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3477,8 +2742,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:30Z",
-        "age_minutes": 4.8,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3492,8 +2757,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:37Z",
-        "age_minutes": 4.7,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.4,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3507,8 +2772,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:43Z",
-        "age_minutes": 4.6,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3522,8 +2787,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:56:55Z",
-        "age_minutes": 4.4,
-        "minutes_bin": "0-5"
+        "age_minutes": 19.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3537,8 +2802,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:57:05Z",
-        "age_minutes": 4.2,
-        "minutes_bin": "0-5"
+        "age_minutes": 18.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3552,8 +2817,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:57:19Z",
-        "age_minutes": 4.0,
-        "minutes_bin": "0-5"
+        "age_minutes": 18.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3567,8 +2832,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:57:28Z",
-        "age_minutes": 3.9,
-        "minutes_bin": "0-5"
+        "age_minutes": 18.6,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3582,8 +2847,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:57:33Z",
-        "age_minutes": 3.8,
-        "minutes_bin": "0-5"
+        "age_minutes": 18.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3597,8 +2862,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:57:40Z",
-        "age_minutes": 3.7,
-        "minutes_bin": "0-5"
+        "age_minutes": 18.4,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3612,8 +2877,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:58:00Z",
-        "age_minutes": 3.3,
-        "minutes_bin": "0-5"
+        "age_minutes": 18.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3627,8 +2892,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:58:16Z",
-        "age_minutes": 3.1,
-        "minutes_bin": "0-5"
+        "age_minutes": 17.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3642,8 +2907,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:58:29Z",
-        "age_minutes": 2.8,
-        "minutes_bin": "0-5"
+        "age_minutes": 17.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3657,8 +2922,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:58:32Z",
-        "age_minutes": 2.8,
-        "minutes_bin": "0-5"
+        "age_minutes": 17.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3672,8 +2937,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:58:42Z",
-        "age_minutes": 2.6,
-        "minutes_bin": "0-5"
+        "age_minutes": 17.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3687,8 +2952,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:59:03Z",
-        "age_minutes": 2.3,
-        "minutes_bin": "0-5"
+        "age_minutes": 17.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3702,8 +2967,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:59:04Z",
-        "age_minutes": 2.3,
-        "minutes_bin": "0-5"
+        "age_minutes": 17.0,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3717,8 +2982,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:59:19Z",
-        "age_minutes": 2.0,
-        "minutes_bin": "0-5"
+        "age_minutes": 16.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3732,8 +2997,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:59:33Z",
-        "age_minutes": 1.8,
-        "minutes_bin": "0-5"
+        "age_minutes": 16.5,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3747,8 +3012,8 @@
       },
       "properties": {
         "time": "2026-08-13T07:59:45Z",
-        "age_minutes": 1.6,
-        "minutes_bin": "0-5"
+        "age_minutes": 16.3,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3762,8 +3027,8 @@
       },
       "properties": {
         "time": "2026-08-13T08:00:06Z",
-        "age_minutes": 1.2,
-        "minutes_bin": "0-5"
+        "age_minutes": 15.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3777,8 +3042,8 @@
       },
       "properties": {
         "time": "2026-08-13T08:00:07Z",
-        "age_minutes": 1.2,
-        "minutes_bin": "0-5"
+        "age_minutes": 15.9,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3792,8 +3057,8 @@
       },
       "properties": {
         "time": "2026-08-13T08:00:18Z",
-        "age_minutes": 1.0,
-        "minutes_bin": "0-5"
+        "age_minutes": 15.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3807,8 +3072,8 @@
       },
       "properties": {
         "time": "2026-08-13T08:00:19Z",
-        "age_minutes": 1.0,
-        "minutes_bin": "0-5"
+        "age_minutes": 15.7,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -3822,7 +3087,592 @@
       },
       "properties": {
         "time": "2026-08-13T08:00:40Z",
-        "age_minutes": 0.7,
+        "age_minutes": 15.4,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7847900390625,
+          43.945735931396484
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:01:06Z",
+        "age_minutes": 14.9,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91886901855469,
+          43.88147735595703
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:01:38Z",
+        "age_minutes": 14.4,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87791442871094,
+          43.92856979370117
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:02:03Z",
+        "age_minutes": 14.0,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95653533935547,
+          43.89158630371094
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:02:29Z",
+        "age_minutes": 13.5,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95454406738281,
+          43.82618713378906
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:03:11Z",
+        "age_minutes": 12.8,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80677795410156,
+          43.95126724243164
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:03:22Z",
+        "age_minutes": 12.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.93413543701172,
+          43.823604583740234
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:03:43Z",
+        "age_minutes": 12.3,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.85479736328125,
+          44.137691497802734
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:03:47Z",
+        "age_minutes": 12.2,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87188720703125,
+          43.83760070800781
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:04:15Z",
+        "age_minutes": 11.8,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89136505126953,
+          43.869346618652344
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:04:16Z",
+        "age_minutes": 11.8,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9366455078125,
+          43.868675231933594
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:04:31Z",
+        "age_minutes": 11.5,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.84088134765625,
+          43.890899658203125
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:05:12Z",
+        "age_minutes": 10.8,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.81287384033203,
+          44.11927795410156
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:05:38Z",
+        "age_minutes": 10.4,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50797271728516,
+          44.211181640625
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:05:38Z",
+        "age_minutes": 10.4,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8912353515625,
+          43.88121032714844
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:05:53Z",
+        "age_minutes": 10.1,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55021667480469,
+          44.05909729003906
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:05:54Z",
+        "age_minutes": 10.1,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9104232788086,
+          43.78040313720703
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:06:08Z",
+        "age_minutes": 9.9,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.82178497314453,
+          43.90158462524414
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:06:21Z",
+        "age_minutes": 9.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89579010009766,
+          43.85109329223633
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:06:48Z",
+        "age_minutes": 9.2,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9155044555664,
+          43.803287506103516
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:07:18Z",
+        "age_minutes": 8.7,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90924072265625,
+          43.7666015625
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:07:36Z",
+        "age_minutes": 8.4,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8038101196289,
+          43.911834716796875
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:07:58Z",
+        "age_minutes": 8.1,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82534790039062,
+          44.10649871826172
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:08:00Z",
+        "age_minutes": 8.0,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83568572998047,
+          43.851478576660156
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:08:32Z",
+        "age_minutes": 7.5,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83016967773438,
+          43.79887771606445
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:09:14Z",
+        "age_minutes": 6.8,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.49214935302734,
+          44.04819107055664
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:09:15Z",
+        "age_minutes": 6.8,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.79631805419922,
+          43.89249038696289
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:10:05Z",
+        "age_minutes": 5.9,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80770874023438,
+          43.74497985839844
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:10:31Z",
+        "age_minutes": 5.5,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.77411651611328,
+          43.852291107177734
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:10:58Z",
+        "age_minutes": 5.1,
+        "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8012924194336,
+          43.863155364990234
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:11:36Z",
+        "age_minutes": 4.4,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8597412109375,
+          43.758567810058594
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:11:56Z",
+        "age_minutes": 4.1,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79178619384766,
+          44.11148452758789
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:11:56Z",
+        "age_minutes": 4.1,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.47502136230469,
+          44.12808609008789
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:11:57Z",
+        "age_minutes": 4.1,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7719497680664,
+          43.86409378051758
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:12:49Z",
+        "age_minutes": 3.2,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91908264160156,
+          43.62679672241211
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:12:54Z",
+        "age_minutes": 3.1,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7839584350586,
+          43.80860900878906
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:13:37Z",
+        "age_minutes": 2.4,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.70686340332031,
+          43.89677810668945
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:14:21Z",
+        "age_minutes": 1.7,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.77897644042969,
+          43.77138900756836
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:14:52Z",
+        "age_minutes": 1.2,
+        "minutes_bin": "0-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.71554565429688,
+          43.741302490234375
+        ]
+      },
+      "properties": {
+        "time": "2026-08-13T08:15:26Z",
+        "age_minutes": 0.6,
         "minutes_bin": "0-5"
       }
     }
