@@ -12,7 +12,7 @@
       },
       "properties": {
         "time": "2026-08-20T01:24:09Z",
-        "age_minutes": 37.1,
+        "age_minutes": 51.8,
         "minutes_bin": "30-60"
       }
     },
@@ -27,7 +27,7 @@
       },
       "properties": {
         "time": "2026-08-20T01:26:18Z",
-        "age_minutes": 35.0,
+        "age_minutes": 49.7,
         "minutes_bin": "30-60"
       }
     },
@@ -42,7 +42,7 @@
       },
       "properties": {
         "time": "2026-08-20T01:26:41Z",
-        "age_minutes": 34.6,
+        "age_minutes": 49.3,
         "minutes_bin": "30-60"
       }
     },
@@ -57,7 +57,7 @@
       },
       "properties": {
         "time": "2026-08-20T01:30:09Z",
-        "age_minutes": 31.1,
+        "age_minutes": 45.8,
         "minutes_bin": "30-60"
       }
     },
@@ -72,8 +72,8 @@
       },
       "properties": {
         "time": "2026-08-20T01:32:50Z",
-        "age_minutes": 28.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 43.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -87,8 +87,8 @@
       },
       "properties": {
         "time": "2026-08-20T01:34:33Z",
-        "age_minutes": 26.7,
-        "minutes_bin": "15-30"
+        "age_minutes": 41.4,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -102,8 +102,8 @@
       },
       "properties": {
         "time": "2026-08-20T01:35:15Z",
-        "age_minutes": 26.0,
-        "minutes_bin": "15-30"
+        "age_minutes": 40.7,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -117,8 +117,8 @@
       },
       "properties": {
         "time": "2026-08-20T01:37:47Z",
-        "age_minutes": 23.5,
-        "minutes_bin": "15-30"
+        "age_minutes": 38.2,
+        "minutes_bin": "30-60"
       }
     },
     {
@@ -132,8 +132,23 @@
       },
       "properties": {
         "time": "2026-08-20T01:49:38Z",
-        "age_minutes": 11.7,
-        "minutes_bin": "5-15"
+        "age_minutes": 26.4,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.22674560546875,
+          44.76557922363281
+        ]
+      },
+      "properties": {
+        "time": "2026-08-20T02:14:31Z",
+        "age_minutes": 1.5,
+        "minutes_bin": "0-5"
       }
     }
   ]
