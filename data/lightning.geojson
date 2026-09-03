@@ -6,43 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.62897491455078,
-          44.87144470214844
-        ]
-      },
-      "properties": {
-        "time": "2026-09-03T01:21:47Z",
-        "age_minutes": 54.2,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.54273223876953,
-          44.88465118408203
-        ]
-      },
-      "properties": {
-        "time": "2026-09-03T01:25:38Z",
-        "age_minutes": 50.4,
-        "minutes_bin": "30-60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.42057037353516,
           44.89550018310547
         ]
       },
       "properties": {
         "time": "2026-09-03T01:31:17Z",
-        "age_minutes": 44.7,
+        "age_minutes": 59.9,
         "minutes_bin": "30-60"
       }
     },
@@ -57,7 +27,7 @@
       },
       "properties": {
         "time": "2026-09-03T01:34:46Z",
-        "age_minutes": 41.2,
+        "age_minutes": 56.4,
         "minutes_bin": "30-60"
       }
     },
@@ -72,8 +42,8 @@
       },
       "properties": {
         "time": "2026-09-03T02:07:03Z",
-        "age_minutes": 9.0,
-        "minutes_bin": "5-15"
+        "age_minutes": 24.1,
+        "minutes_bin": "15-30"
       }
     },
     {
@@ -87,8 +57,38 @@
       },
       "properties": {
         "time": "2026-09-03T02:07:43Z",
-        "age_minutes": 8.3,
+        "age_minutes": 23.4,
+        "minutes_bin": "15-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.81641387939453,
+          44.804683685302734
+        ]
+      },
+      "properties": {
+        "time": "2026-09-03T02:22:47Z",
+        "age_minutes": 8.4,
         "minutes_bin": "5-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432632446289,
+          44.77099609375
+        ]
+      },
+      "properties": {
+        "time": "2026-09-03T02:27:18Z",
+        "age_minutes": 3.9,
+        "minutes_bin": "0-5"
       }
     }
   ]
